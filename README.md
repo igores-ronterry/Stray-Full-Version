@@ -270,4 +270,4 @@ This repository serves as the official landing page for Stray. The software is d
 **Get the most recent version of Stray today!**
 
 ---
-**Last updated:** 2026-10-01 14:12:29 UTC
+**Last updated:** 2026-10-01 20:07:43 UTC
